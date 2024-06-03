@@ -1,7 +1,8 @@
 # OpenCV Library repo
 
-This repository contains a comprehensive guide to the OpenCV library, aimed at helping developers understand and utilize its powerful computer vision functionalities.
+This repository contains a comprehensive guide to the OpenCV library, aimed at helping me understand and utilize its powerful computer vision functionalities.
 The repository is structured into chapters, each covering different aspects of OpenCV, and includes several projects that demonstrate practical applications of the library.
+i will use this repo to educate my slef to learn opencv and to remember  its functionalities when it needed
 
 ## Table of Contents
 
