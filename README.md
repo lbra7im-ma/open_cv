@@ -4,7 +4,7 @@ This repository contains a comprehensive guide to the OpenCV library, aimed at h
 The repository is structured into chapters, each covering different aspects of OpenCV, and includes several projects that demonstrate practical applications of the library.
 i will use this repo to educate my slef to learn opencv and to remember  its functionalities when it needed
 
-#Table of Contents
+# Table of Contents
 
 - [Chapter 1: raed images ,videos and web-cam)
 - [Chapter 2: basic functions)
@@ -17,7 +17,7 @@ i will use this repo to educate my slef to learn opencv and to remember  its fun
 - [Chapter 9: face detection)
 - [Projects](#projects)
 
-#Projects
+# Projects
 
 This section includes four or more projects that demonstrate practical applications of OpenCV:
 
@@ -35,7 +35,7 @@ This section includes four or more projects that demonstrate practical applicati
 
 <<<<< More projects maybe will be added in the future to expand the practical applications of OpenCV >>>>>
 
-#Status
+# Status
 
 This repository is currently 60% complete. The remaining chapters and projects will be added in subsequent updates. Contributions and suggestions are welcome.
 
