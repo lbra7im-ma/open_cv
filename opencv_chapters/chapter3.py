@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np 
 
 
-img = cv.imread('ibra.jpg')
+img = cv.imread('opencv_chapters/photos/ibra.jpg')
 cv.imshow('img', img)
 
 print(img.shape)

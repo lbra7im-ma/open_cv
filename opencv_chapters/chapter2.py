@@ -3,7 +3,7 @@ import numpy as np
 
 kernel = np.ones((5,5),np.uint8)
 
-img = cv.imread('ibra.jpg')
+img = cv.imread('opencv_chapters/photos/ibra.jpg')
 cv.imshow('image', img)
 #========================================================================================
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)

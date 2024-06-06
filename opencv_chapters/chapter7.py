@@ -17,7 +17,7 @@ cv.createTrackbar("val max ","trackbars",255,255,empty)
 
 while True:
 
-    img = cv.imread('opencv_chapters/ibra.jpg')
+    img = cv.imread('opencv_chapters/photos/ibra.jpg')
 
     imgHSV = cv.cvtColor(img,cv.COLOR_BGR2HSV)
 

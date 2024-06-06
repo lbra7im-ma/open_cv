@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread('card.jpg')
+img = cv.imread('opencv_chapters/photos/card.jpg')
 
 width,height = 250,350
 
