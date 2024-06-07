@@ -72,13 +72,13 @@ def detect(img, faceCascade, eyeCascade, mouthCascade, noseCascade, img_id):
 
 
 
-faceCascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
+faceCascade = cv.CascadeClassifier('face detection and recognition on pictures in real-time/haarcascade_frontalface_default.xml')
 #eyeCascade = cv.CascadeClassifier('haarcascade_eye.xml')
 #mouthCascade = cv.CascadeClassifier('Mouth.xml')
 #noseCascade = cv.CascadeClassifier('Nariz.xml')
 
 clf = cv.face.LBPHFaceRecognizer_create()
-clf.read("classifier.yml")
+clf.read("face detection and recognition on pictures in real-time/classifier.yml")
 
 
 

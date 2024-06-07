@@ -22,7 +22,7 @@ def train_classifier(data_dir):
 
     clf = cv.face.LBPHFaceRecognizer_create()
     clf.train(faces, ids)
-    clf.write("classifier.yml")
+    clf.write("face detection and recognition on pictures in real-time/classifier.yml")
 
-train_classifier("data")
+train_classifier("face detection and recognition on pictures in real-time/data")
 print(f"trainnig the modele done succefully  ")
