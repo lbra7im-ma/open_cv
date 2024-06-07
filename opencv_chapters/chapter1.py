@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('opencv_chapters/ibra.jpg')
+img = cv.imread('opencv_chapters/photos/ibra.jpg')
 cv.imshow('the pic', img)
 
 #==============================================================================================
